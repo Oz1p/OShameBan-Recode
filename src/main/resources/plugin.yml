@@ -1,0 +1,10 @@
+name: oShameBan-Recode
+version: '${project.version}'
+main: me.oz1p.oshamebanrecode.OShameBan
+api-version: '1.16'
+commands:
+  oShameBan:
+    aliases:
+      - shameban
+      - oShameBan-Recode
+    description: Shameban
